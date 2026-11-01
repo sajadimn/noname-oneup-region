@@ -1,0 +1,16 @@
+{
+    "name": "Noname.OneUp.Region",
+    "rootNamespace": "",
+    "references": [
+        "Noname.OneUp.Singleton"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
